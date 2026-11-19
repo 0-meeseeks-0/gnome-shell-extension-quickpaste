@@ -1,0 +1,9 @@
+{
+  "uuid": "quickpaste@0-meeseeks-0.io",
+  "name": "QuickPaste",
+  "description": "Clipboard manager: Ctrl+Right opens the history, the arrow keys browse it, releasing Ctrl pastes.",
+  "shell-version": ["48", "49", "50", "51"],
+  "settings-schema": "org.gnome.shell.extensions.quickpaste",
+  "url": "https://github.com/0-meeseeks-0/gnome-shell-extension-quickpaste",
+  "version": 1
+}

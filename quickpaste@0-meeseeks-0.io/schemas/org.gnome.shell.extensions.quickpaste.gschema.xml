@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.quickpaste"
+          path="/org/gnome/shell/extensions/quickpaste/">
+    <key name="max-items" type="i">
+      <default>50</default>
+      <range min="1" max="500"/>
+      <summary>Maximum number of items kept in the history</summary>
+    </key>
+    <key name="toggle-shortcut" type="as">
+      <default><![CDATA[['<Control>Right']]]></default>
+      <summary>Shortcut that opens the popup (must include Ctrl)</summary>
+    </key>
+  </schema>
+</schemalist>
