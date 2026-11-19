@@ -83,4 +83,4 @@ rm -rf ~/.local/share/gnome-shell/extensions/quickpaste@0-meeseeks-0.io
 ## License
 
 QuickPaste is free software, released under the
-[GNU General Public License, version 2 or later](LICENSE).
+[GNU General Public License](LICENSE).
